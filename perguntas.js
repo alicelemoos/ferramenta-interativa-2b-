@@ -1,4 +1,3 @@
-
 criaCartao(
     'Biologia',
     'O que é Genótipo?',
