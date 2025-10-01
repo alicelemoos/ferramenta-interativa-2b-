@@ -20,5 +20,5 @@ cartao.className = 'cartao'
     </div>
 </div>
 `
-    container.appendChild(cartão)
+    container.appendChild(cartao)
 }
