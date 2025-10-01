@@ -1,4 +1,5 @@
-fuction criaCartao (categoria, pergunta, resposta); {
+fuction criaCartao (categoria, pergunta, resposta);
+ {
 
 console.log(categoria, pergunta, resposta)
 
